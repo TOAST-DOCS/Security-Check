@@ -2,7 +2,7 @@
 
 This document describes how to use the Security Check console. 
 
-To enable Security Check, login to **TOAST Console** and click **Security > Security Check** on the service list. 
+To enable Security Check, login to **NHN Cloud Console** and click **Security > Security Check** on the service list. 
 
 ## Apply for Inspection 
 

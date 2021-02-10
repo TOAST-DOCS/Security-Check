@@ -2,7 +2,7 @@
 
 ここではSecurity Checkコンソールの使用方法を説明します。
 
-Security Checkサービスを使用するには、**TOAST Console**にログインし、サービスリストから**Security > Security Check**をクリックします。
+Security Checkサービスを使用するには、**NHN Cloud Console**にログインし、サービスリストから**Security > Security Check**をクリックします。
 
 ## 検収申請
 
