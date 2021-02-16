@@ -1,4 +1,4 @@
-## Security > Security Check > Release Notes
+## Security > App Security Check > Release Notes
 
 
 ## 2016.08.18
