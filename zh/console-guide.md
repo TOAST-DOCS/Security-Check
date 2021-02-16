@@ -1,8 +1,8 @@
-## Security > Security Check > Console Guide
+## Security > App Security Check > Console Guide
 
-This document describes how to use the Security Check console. 
+This document describes how to use the App Security Check console. 
 
-To enable Security Check, login to **NHN Cloud Console** and click **Security > Security Check** on the service list. 
+To enable App Security Check, login to **NHN Cloud Console** and click **Security > App Security Check** on the service list. 
 
 ## Apply for Inspection 
 

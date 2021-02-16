@@ -1,4 +1,4 @@
-## Security > Security Check > 릴리스 노트
+## Security > App Security Check > 릴리스 노트
 
 ### 2019. 08. 27.
 

@@ -1,4 +1,4 @@
-## Security > Security Check > リリースノート
+## Security > App Security Check > リリースノート
 
 ### 2019. 08. 27.
 
