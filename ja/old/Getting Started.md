@@ -1,13 +1,13 @@
-## Security > Security Check > Getting Started
+## Security > App Security Check > Getting Started
 
-Security Check 서비스를 사용하기 위한 절차는 아래와 같습니다.
+App Security Check 서비스를 사용하기 위한 절차는 아래와 같습니다.
 
 ## 서비스 활성화
 
-Security Check를 이용하여 앱을 보호하려면 먼저 서비스를 활성화하여야 합니다. Console에서 [Security]>[Security Check]를 선택한 후 [그림 1]의 [상품이용] 버튼을 클릭하여 서비스를 활성화 합니다.
+App Security Check를 이용하여 앱을 보호하려면 먼저 서비스를 활성화하여야 합니다. Console에서 [Security]>[App Security Check]를 선택한 후 [그림 1]의 [상품이용] 버튼을 클릭하여 서비스를 활성화 합니다.
 
-![[그림 1] Security Check 서비스 활성화](http://static.toastoven.net/toastcloud/static/common/img/cms_img/security/img_17.png)
-<center>[그림 1] Security Check 서비스 활성화</center>
+![[그림 1] App Security Check 서비스 활성화](http://static.toastoven.net/toastcloud/static/common/img/cms_img/security/img_17.png)
+<center>[그림 1] App Security Check 서비스 활성화</center>
 
 ## 검수 신청
 

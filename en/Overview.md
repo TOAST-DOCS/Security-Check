@@ -1,6 +1,6 @@
-## Security > Security Check > Overview
+## Security > App Security Check > Overview
 
-On the back of years' of work experience and professional skills, Security Check inspects and provides responsive means to security vulnerabilities of new or operating applications. 
+On the back of years' of work experience and professional skills, App Security Check inspects and provides responsive means to security vulnerabilities of new or operating applications. 
 
 ## Benefits  
 
@@ -20,7 +20,7 @@ On the back of years' of work experience and professional skills, Security Check
 
 ## Targets  
 
-Security Check is effective for the following cases: 
+App Security Check is effective for the following cases: 
 
 * To inspect new applications before release  
 * To inspect applications that are under operations  
@@ -28,7 +28,7 @@ Security Check is effective for the following cases:
 
 ## Service Structure 
 
-Security Check is structured as follows: 
+App Security Check is structured as follows: 
 
 1. User fills out information for service to inspect;
 2. Inspector is assigned for the application to execute manual or automatic inspection; and, 

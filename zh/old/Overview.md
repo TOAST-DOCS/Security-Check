@@ -1,4 +1,4 @@
-## Security > Security Check > Overview
+## Security > App Security Check > Overview
 
 신규 또는 운영 중인 애플리케이션에 대한 보안 취약점 검수를 수행하고 발견된 취약점에 대한 대응 방법을 제공하는 서비스입니다.
 
@@ -18,7 +18,7 @@
 
 ## 서비스 대상
 
-Security Check 서비스는 다음과 같은 경우 효과적입니다.
+App Security Check 서비스는 다음과 같은 경우 효과적입니다.
 
 * 신규 애플리케이션에 대해 오픈 전 보안 검수가 필요한 경우
 * 운영 중인 애플리케이션에 대한 보안 검수가 필요한 경우
@@ -26,12 +26,12 @@ Security Check 서비스는 다음과 같은 경우 효과적입니다.
 
 ## 서비스 구조
 
-Security Check의 서비스 구조는 [그림 1]과 같습니다.
+App Security Check의 서비스 구조는 [그림 1]과 같습니다.
 
 사용자가 서비스 대상의 정보를 입력하여 신청을 완료하면, 해당 애플리케이션에 대해 검수자가 할당되어 수동, 자동 검수를 수행합니다. 검수가 완료되면 등록된 결과를 사용자가 확인할 수 있습니다.
 
-![[그림 1] Security Check 서비스 구조](http://static.toastoven.net/toastcloud/static/common/img/cms_img/security/img_01.png)
-<center>[그림 1] Security Check 서비스 구조</center>
+![[그림 1] App Security Check 서비스 구조](http://static.toastoven.net/toastcloud/static/common/img/cms_img/security/img_01.png)
+<center>[그림 1] App Security Check 서비스 구조</center>
 
 ## 특이사항
 

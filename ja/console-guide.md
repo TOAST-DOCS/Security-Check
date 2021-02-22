@@ -1,15 +1,15 @@
-## Security > Security Check > コンソール使用ガイド
+## Security > App Security Check > コンソール使用ガイド
 
-ここではSecurity Checkコンソールの使用方法を説明します。
+ここではApp Security Checkコンソールの使用方法を説明します。
 
-Security Checkサービスを使用するには、**TOAST Console**にログインし、サービスリストから**Security > Security Check**をクリックします。
+App Security Checkサービスを使用するには、**NHN Cloud Console**にログインし、サービスリストから**Security > App Security Check**をクリックします。
 
 ## 検収申請
 
 サービスセキュリティー検収を申請します。
 ![securitycheck_01_201812.png](https://static.toastoven.net/prod_securitycheck/securitycheck_01_201812.png)
 
-1. Security Checkコンソールで**検収申請**ボタンをクリックし、**検収申請**ウィンドウでサービス情報を入力します。
+1. App Security Checkコンソールで**検収申請**ボタンをクリックし、**検収申請**ウィンドウでサービス情報を入力します。
 2. 検収するサービスの種類を選択し、セキュリティー質疑書を作成します。
   - Web Application
     - Webサービスセキュリティー質疑書をダウンロードして作成し、企画、開発文書と一緒にファイルを圧縮した後、ファイルをアップロードして検収要請を登録します。
