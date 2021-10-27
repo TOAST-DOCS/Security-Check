@@ -1,5 +1,11 @@
 ## Security > App Security Check > 릴리스 노트
 
+### 2021. 10. 26.
+
+#### 기능 개선/변경
+* [Console] Web Application 검수 종류 "일반" 제거
+
+
 ### 2019. 08. 27.
 
 #### 기능 개선
