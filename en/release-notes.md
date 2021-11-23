@@ -1,5 +1,11 @@
 ## Security > App Security Check > Release Notes
 
+### October 26, 2021
+
+#### Feature Updates
+* [Console] Removed "Normal" from web application inspection types
+
+
 ### August 27, 2019
 
 #### Feature Updates 
