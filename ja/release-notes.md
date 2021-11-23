@@ -1,5 +1,10 @@
 ## Security > App Security Check > リリースノート
 
+### 2021. 10. 26.
+
+#### 機能改善/変更
+* [Console] Web Application検収種類「一般」の削除
+
 ### 2019. 08. 27.
 
 #### 機能改善
