@@ -5,11 +5,12 @@
 #### Feature Updates
 * [Console] Removed "Normal" from web application inspection types
 
+
 ### August 27, 2019
 
 #### Feature Updates 
 * [Console] Applied the same font for multiple languages 
-* [Console] Added redirection processing for login
+* [Console] Added redirection processing for login 
 
 
 ### May 14, 2019
