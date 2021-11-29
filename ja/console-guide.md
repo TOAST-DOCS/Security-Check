@@ -13,11 +13,11 @@ App Security Checkサービスを使用するには、**NHN Cloud Console**に�
 2. 検収するサービスの種類を選択し、セキュリティー質疑書を作成します。
   - Web Application
     - Webサービスセキュリティー質疑書をダウンロードして作成し、企画、開発文書と一緒にファイルを圧縮した後、ファイルをアップロードして検収要請を登録します。
-    - [[Webサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
+    - [[Webサービスセキュリティー質疑書をダウンロード]](https://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
   - Mobile App
     - モバイルアプリまたはゲームサービスのセキュリティー質疑書をダウンロードして作成し、企画、開発文書と一緒にファイルを圧縮した後、ファイルをアップロードして検収要請を登録します。
-    - [[モバイルアプリサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
-    - [[ゲームサービスセキュリティー質疑書をダウンロード]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
+    - [[モバイルアプリサービスセキュリティー質疑書をダウンロード]](https://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
+    - [[ゲームサービスセキュリティー質疑書をダウンロード]](https://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
 3. **確認**ボタンをクリックします。
 
 ## 結果確認
