@@ -13,11 +13,11 @@ Apply for service security inspection.
 2. Select a type of service for inspection and fill out the security questionnaire. 
   - Web Application
     - Download a security questionnaire for web service, and compress the file, along with planning and development documents; upload the file as attached, and register application for inspection. 
-    - [[Download Security Inquiry for Web Service]](http://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
+    - [[Download Security Inquiry for Web Service]](https://static.toastoven.net/toastcloud/sdk_download/security/web_security_check.xls)
   - Mobile App
     - Download a security questionnaire for mobile app or game service, and compress the file along with planning and development documents; upload the file as attached, and register application for inspection. 
-    - [[Download Security Questionnaire for Mobile App Service]](http://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
-    - [[Download Security Questionnaire for Game Service]](http://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
+    - [[Download Security Questionnaire for Mobile App Service]](https://static.toastoven.net/toastcloud/sdk_download/security/mobile_security_check.xls)
+    - [[Download Security Questionnaire for Game Service]](https://static.toastoven.net/toastcloud/sdk_download/security/game_security_check.xls)
 3. Click **OK**.
 
 ## Check Results 
