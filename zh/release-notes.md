@@ -1,5 +1,11 @@
 ## Security > App Security Check > Release Notes
 
+### January 25, 2022
+
+#### Feature Updates
+* [Console] Improved UI
+
+
 ### October 26, 2021
 
 #### Feature Updates
