@@ -1,7 +1,7 @@
 
 ## Security > App Security Check > リリースノート
 
-### 2021. 01. 25.
+### 2022. 01. 25.
 
 #### 機能改善
 * [Console] UI改善
